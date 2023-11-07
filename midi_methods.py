@@ -18,6 +18,27 @@ import os
 import tarfile
 
 
+def extract_midi_files(path='lmd_matched.tar.gz', output_folder='lmd_matched'):
+    """
+    Given a path to a tar.gz fiile, extract all compressed files
+
+    Parameters
+    ----------
+    path : str
+        Path to tar.gz file
+    output_folder : str
+        Destination folder to extract files to
+    
+    Returns
+    -------
+    None
+    """
+    f = tarfile.open(path)
+    f.extractall(output_folder)
+    f.close
+    return
+
+
 def compute_statistics(midi_file):
     """
     Given a path to a MIDI file, compute a dictionary of statistics about it
