@@ -108,7 +108,7 @@ def get_artist_name(h5,songidx=0):
 
 def get_release(h5,songidx=0):
     """
-    Get release from a HDF5 song file, by default the first song in it
+    Get release(album) from a HDF5 song file, by default the first song in it
     """
     return h5.root.metadata.songs.cols.release[songidx]
 
