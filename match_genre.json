@@ -1,0 +1,416 @@
+[
+    {
+        "artist": "Cyndi Lauper",
+        "song": "Into The Nightlife",
+        "genres": [
+            "rock",
+            "electronic",
+            "pop rock"
+        ]
+    },
+    {
+        "artist": "Matthew Wilder",
+        "song": "Break My Stride",
+        "genres": [
+            "electronic",
+            "synth-pop",
+            "euro house"
+        ]
+    },
+    {
+        "artist": "Tesla",
+        "song": "Caught In A Dream",
+        "genres": [
+            "rock",
+            "pop",
+            "electronic"
+        ]
+    },
+    {
+        "artist": "Brian Wilson",
+        "song": "Keep An Eye On Summer (Album Version)",
+        "genres": [
+            "rock",
+            "electronic",
+            "pop"
+        ]
+    },
+    {
+        "artist": "Old Man River",
+        "song": "Summer",
+        "genres": [
+            "rock",
+            "electronic",
+            "synth-pop"
+        ]
+    },
+    {
+        "artist": "Tracy Chapman",
+        "song": "Fast Car (LP Version)",
+        "genres": [
+            "pop",
+            "electronic",
+            "rock"
+        ]
+    },
+    {
+        "artist": "Chris Rea",
+        "song": "Driving Home For Christmas",
+        "genres": [
+            "pop",
+            "rock",
+            "christmas"
+        ]
+    },
+    {
+        "artist": "Hank Williams Jr.",
+        "song": "Tuesday's Gone (Remastered Album Version)",
+        "genres": [
+            "rock",
+            "country",
+            "blues rock"
+        ]
+    },
+    {
+        "artist": "Tokio Hotel",
+        "song": "1000 Meere",
+        "genres": [
+            "rock",
+            "pop",
+            "experimental"
+        ]
+    },
+    {
+        "artist": "Black Eyed Peas",
+        "song": "Let's Get It Started",
+        "genres": [
+            "hip hop",
+            "pop rap",
+            "electronic"
+        ]
+    },
+    {
+        "artist": "Calle Kristiansson",
+        "song": "Hungry Heart",
+        "genres": [
+            "rock",
+            "pop rock",
+            "pop"
+        ]
+    },
+    {
+        "artist": "LITTLE TEXAS",
+        "song": "My Love (Album Version)",
+        "genres": [
+            "electronic",
+            "rock",
+            "house"
+        ]
+    },
+    {
+        "artist": "Julien Clerc",
+        "song": "This Melody (Live)",
+        "genres": [
+            "rock",
+            "experimental",
+            "jazz"
+        ]
+    },
+    {
+        "artist": "The Hollies",
+        "song": "Stop Stop Stop (1999 Digital Remaster)",
+        "genres": [
+            "rock",
+            "electronic",
+            "pop"
+        ]
+    },
+    {
+        "artist": "Nelson Ned",
+        "song": "Brasas Vivas",
+        "genres": [
+            "rock",
+            "psychedelic rock",
+            "experimental"
+        ]
+    },
+    {
+        "artist": "Arisen Flame",
+        "song": "Income",
+        "genres": [
+            "electronic",
+            "hip hop",
+            "ragga"
+        ]
+    },
+    {
+        "artist": "Doves",
+        "song": "Jetstream (Sasha Subdub)",
+        "genres": [
+            "electronic",
+            "house",
+            "pop"
+        ]
+    },
+    {
+        "artist": "Space DJZ",
+        "song": "Force Majeure",
+        "genres": [
+            "electronic",
+            "rock",
+            "techno"
+        ]
+    },
+    {
+        "artist": "Sonny fodera",
+        "song": "Changes feat Adaja Black (Original Mix)",
+        "genres": [
+            "electronic",
+            "house",
+            "tribal house"
+        ]
+    },
+    {
+        "artist": "Marilyn Monroe",
+        "song": "I Wanna Be Loved By You",
+        "genres": [
+            "pop",
+            "electronic",
+            "jazz"
+        ]
+    },
+    {
+        "artist": "Brazilian Tropical Orchestra",
+        "song": "One Less Bell To Answer",
+        "genres": [
+            "rock",
+            "pop",
+            "punk"
+        ]
+    },
+    {
+        "artist": "The Verve",
+        "song": "Bitter Sweet Symphony",
+        "genres": [
+            "pop",
+            "electronic",
+            "jazz"
+        ]
+    },
+    {
+        "artist": "Gary Smith",
+        "song": "It's Your Store",
+        "genres": [
+            "rock",
+            "dance",
+            "pop"
+        ]
+    },
+    {
+        "artist": "Saeed Younan",
+        "song": "Yeah Ha",
+        "genres": [
+            "rock",
+            "electronic",
+            "punk"
+        ]
+    },
+    {
+        "artist": "Nine Inch Nails",
+        "song": "The Frail",
+        "genres": [
+            "industrial",
+            "electronic",
+            "rock"
+        ]
+    },
+    {
+        "artist": "Abba",
+        "song": "The Name Of The Game",
+        "genres": [
+            "electronic",
+            "rock",
+            "pop"
+        ]
+    },
+    {
+        "artist": "Queen + Paul Rodgers",
+        "song": "We Are The Champions (Live In Ukraine)",
+        "genres": [
+            "rock",
+            "pop rock",
+            "classic rock"
+        ]
+    },
+    {
+        "artist": "2 Fabiola",
+        "song": "Magic Flight",
+        "genres": [
+            "electronic",
+            "trance",
+            "rock"
+        ]
+    },
+    {
+        "artist": "The B-52's",
+        "song": "Wig",
+        "genres": [
+            "electronic",
+            "rock",
+            "house"
+        ]
+    },
+    {
+        "artist": "Chris Brown",
+        "song": "Forever",
+        "genres": [
+            "r b",
+            "electronic",
+            "hip hop"
+        ]
+    },
+    {
+        "artist": "David Bowie",
+        "song": "Life On Mars? (1990 Digital Remaster)",
+        "genres": [
+            "rock",
+            "pop",
+            "electronic"
+        ]
+    },
+    {
+        "artist": "Nat King Cole",
+        "song": "When I Fall In Love",
+        "genres": [
+            "pop",
+            "jazz",
+            "electronic"
+        ]
+    },
+    {
+        "artist": "Orbital",
+        "song": "Illuminate",
+        "genres": [
+            "electronic",
+            "synth-pop",
+            "rock"
+        ]
+    },
+    {
+        "artist": "Virginia Jetzt!",
+        "song": "Hier Zu Sein",
+        "genres": [
+            "rock",
+            "pop",
+            "punk"
+        ]
+    },
+    {
+        "artist": "Philadelphia Orchestra_ Eugene Ormandy",
+        "song": "The Nutcracker Suite: March",
+        "genres": [
+            "classical",
+            "jazz",
+            "art rock"
+        ]
+    },
+    {
+        "artist": "Ace Cannon",
+        "song": "Rockin Robin",
+        "genres": [
+            "pop",
+            "rock",
+            "classical"
+        ]
+    },
+    {
+        "artist": "Jocelyn Pook",
+        "song": "Sleigh Ride",
+        "genres": [
+            "pop",
+            "rock",
+            "instrumental"
+        ]
+    },
+    {
+        "artist": "Harold Faltermeyer",
+        "song": "Axel F",
+        "genres": [
+            "electronic",
+            "electro",
+            "synth-pop"
+        ]
+    },
+    {
+        "artist": "Steps",
+        "song": "I Know Him So Well",
+        "genres": [
+            "rock",
+            "pop",
+            "pop rock"
+        ]
+    },
+    {
+        "artist": "Gerry Rafferty",
+        "song": "Baker Street (Edit)",
+        "genres": [
+            "rock",
+            "pop rock",
+            "house"
+        ]
+    },
+    {
+        "artist": "DMX / Sisqo",
+        "song": "What These Bitches Want",
+        "genres": [
+            "electronic",
+            "house",
+            "comedy"
+        ]
+    },
+    {
+        "artist": "The Shirelles",
+        "song": "Will You Love Me Tomorrow",
+        "genres": [
+            "pop",
+            "rock",
+            "pop rock"
+        ]
+    },
+    {
+        "artist": "The Jacksons",
+        "song": "Rock With You",
+        "genres": [
+            "rock",
+            "electronic",
+            "pop"
+        ]
+    },
+    {
+        "artist": "Lionel Rogg",
+        "song": "Prelude And Fugue In C Major BWV 531 : Fugue",
+        "genres": [
+            "classical",
+            "baroque",
+            "e-musik"
+        ]
+    },
+    {
+        "artist": "Huey Lewis & The News",
+        "song": "I Want A New Drug",
+        "genres": [
+            "rock",
+            "pop rock",
+            "electronic"
+        ]
+    },
+    {
+        "artist": "Westlife",
+        "song": "When You're Looking Like That",
+        "genres": [
+            "rock",
+            "electronic",
+            "rock and roll"
+        ]
+    }
+]
