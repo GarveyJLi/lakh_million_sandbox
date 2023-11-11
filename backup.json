@@ -1,4 +1,235 @@
-[
+[][][][
+    {
+        "artist": "Cyndi Lauper",
+        "song": "Into The Nightlife",
+        "genres": [
+            "rock",
+            "electronic",
+            "pop rock"
+        ],
+        "raw_file": "TRAAAGR128F425B14B.h5"
+    },
+    {
+        "artist": "Matthew Wilder",
+        "song": "Break My Stride",
+        "genres": [
+            "electronic",
+            "synth-pop",
+            "euro house"
+        ],
+        "raw_file": "TRAAAZF12903CCCF6B.h5"
+    }
+][
+    {
+        "artist": "Tesla",
+        "song": "Caught In A Dream",
+        "genres": [
+            "rock",
+            "electronic",
+            "pop"
+        ],
+        "raw_file": "TRAABVM128F92CA9DC.h5"
+    },
+    {
+        "artist": "Brian Wilson",
+        "song": "Keep An Eye On Summer (Album Version)",
+        "genres": [
+            "rock",
+            "electronic",
+            "hip hop"
+        ],
+        "raw_file": "TRAABXH128F42955D6.h5"
+    }
+][
+    {
+        "artist": "Old Man River",
+        "song": "Summer",
+        "genres": [
+            "rock",
+            "electronic",
+            "synth-pop"
+        ],
+        "raw_file": "TRAACQE12903CC706C.h5"
+    }
+][
+    {
+        "artist": "Tracy Chapman",
+        "song": "Fast Car (LP Version)",
+        "genres": [
+            "pop",
+            "electronic",
+            "rock"
+        ],
+        "raw_file": "TRAADKW128E079503A.h5"
+    }
+][
+    {
+        "artist": "Chris Rea",
+        "song": "Driving Home For Christmas",
+        "genres": [
+            "pop",
+            "rock",
+            "christmas"
+        ],
+        "raw_file": "TRAAEEH128E0795DFE.h5"
+    },
+    {
+        "artist": "Hank Williams Jr.",
+        "song": "Tuesday's Gone (Remastered Album Version)",
+        "genres": [
+            "rock",
+            "country",
+            "blues rock"
+        ],
+        "raw_file": "TRAAEJH128E0785506.h5"
+    }
+][
+    {
+        "artist": "Tokio Hotel",
+        "song": "1000 Meere",
+        "genres": [
+            "rock",
+            "pop",
+            "experimental"
+        ],
+        "raw_file": "TRAAFMT128F429DB58.h5"
+    }
+][
+    {
+        "artist": "Black Eyed Peas",
+        "song": "Let's Get It Started",
+        "genres": [
+            "hip hop",
+            "pop rap",
+            "electronic"
+        ],
+        "raw_file": "TRAAGCZ128F93210FD.h5"
+    },
+    {
+        "artist": "Calle Kristiansson",
+        "song": "Hungry Heart",
+        "genres": [
+            "rock",
+            "pop rock",
+            "pop"
+        ],
+        "raw_file": "TRAAGKR12903CFC1E5.h5"
+    },
+    {
+        "artist": "LITTLE TEXAS",
+        "song": "My Love (Album Version)",
+        "genres": [
+            "rock",
+            "electronic",
+            "house"
+        ],
+        "raw_file": "TRAAGMC128F4292D0F.h5"
+    },
+    {
+        "artist": "Julien Clerc",
+        "song": "This Melody (Live)",
+        "genres": [
+            "rock",
+            "experimental",
+            "jazz"
+        ],
+        "raw_file": "TRAAGMJ12903CAD7D4.h5"
+    }
+][
+    {
+        "artist": "The Hollies",
+        "song": "Stop Stop Stop (1999 Digital Remaster)",
+        "genres": [
+            "rock",
+            "electronic",
+            "pop"
+        ],
+        "raw_file": "TRAAHOQ12903CC6A5A.h5"
+    }
+][
+    {
+        "artist": "Nelson Ned",
+        "song": "Brasas Vivas",
+        "genres": [
+            "rock",
+            "psychedelic rock",
+            "experimental"
+        ],
+        "raw_file": "TRAAJSX128F4275A1D.h5"
+    }
+][
+    {
+        "artist": "Arisen Flame",
+        "song": "Income",
+        "genres": [
+            "electronic",
+            "hip hop",
+            "ragga"
+        ],
+        "raw_file": "TRAAKDJ12903D09573.h5"
+    },
+    {
+        "artist": "Doves",
+        "song": "Jetstream (Sasha Subdub)",
+        "genres": [
+            "electronic",
+            "house",
+            "rock"
+        ],
+        "raw_file": "TRAAKLG128F93453BB.h5"
+    },
+    {
+        "artist": "Space DJZ",
+        "song": "Force Majeure",
+        "genres": [
+            "electronic",
+            "rock",
+            "techno"
+        ],
+        "raw_file": "TRAAKMU128F9355D15.h5"
+    },
+    {
+        "artist": "Sonny fodera",
+        "song": "Changes feat Adaja Black (Original Mix)",
+        "genres": [
+            "electronic",
+            "house",
+            "tribal house"
+        ],
+        "raw_file": "TRAAKOM12903D14D9F.h5"
+    },
+    {
+        "artist": "Marilyn Monroe",
+        "song": "I Wanna Be Loved By You",
+        "genres": [
+            "pop",
+            "electronic",
+            "jazz"
+        ],
+        "raw_file": "TRAAKQA128F424B272.h5"
+    },
+    {
+        "artist": "Brazilian Tropical Orchestra",
+        "song": "One Less Bell To Answer",
+        "genres": [
+            "rock",
+            "punk",
+            "electronic"
+        ],
+        "raw_file": "TRAAKQS128F4224DE1.h5"
+    }
+][
+    {
+        "artist": "The Verve",
+        "song": "Bitter Sweet Symphony",
+        "genres": [
+            "pop",
+            "electronic",
+            "jazz"
+        ],
+        "raw_file": "TRAALAH128E078234A.h5"
+    }
+][][
     {
         "artist": "Cyndi Lauper",
         "song": "Into The Nightlife",
@@ -18,7 +249,8 @@
             "euro house"
         ],
         "filename": "TRAAAZF12903CCCF6B.h5"
-    },
+    }
+][
     {
         "artist": "Tesla",
         "song": "Caught In A Dream",
@@ -38,7 +270,8 @@
             "pop"
         ],
         "filename": "TRAABXH128F42955D6.h5"
-    },
+    }
+][
     {
         "artist": "Old Man River",
         "song": "Summer",
@@ -48,7 +281,8 @@
             "synth-pop"
         ],
         "filename": "TRAACQE12903CC706C.h5"
-    },
+    }
+][
     {
         "artist": "Tracy Chapman",
         "song": "Fast Car (LP Version)",
@@ -58,7 +292,8 @@
             "rock"
         ],
         "filename": "TRAADKW128E079503A.h5"
-    },
+    }
+][
     {
         "artist": "Chris Rea",
         "song": "Driving Home For Christmas",
@@ -78,7 +313,8 @@
             "blues rock"
         ],
         "filename": "TRAAEJH128E0785506.h5"
-    },
+    }
+][
     {
         "artist": "Tokio Hotel",
         "song": "1000 Meere",
@@ -88,7 +324,8 @@
             "experimental"
         ],
         "filename": "TRAAFMT128F429DB58.h5"
-    },
+    }
+][
     {
         "artist": "Black Eyed Peas",
         "song": "Let's Get It Started",
@@ -128,7 +365,8 @@
             "jazz"
         ],
         "filename": "TRAAGMJ12903CAD7D4.h5"
-    },
+    }
+][
     {
         "artist": "The Hollies",
         "song": "Stop Stop Stop (1999 Digital Remaster)",
@@ -138,7 +376,8 @@
             "pop"
         ],
         "filename": "TRAAHOQ12903CC6A5A.h5"
-    },
+    }
+][
     {
         "artist": "Nelson Ned",
         "song": "Brasas Vivas",
@@ -148,7 +387,8 @@
             "experimental"
         ],
         "filename": "TRAAJSX128F4275A1D.h5"
-    },
+    }
+][
     {
         "artist": "Arisen Flame",
         "song": "Income",
@@ -208,7 +448,8 @@
             "electronic"
         ],
         "filename": "TRAAKQS128F4224DE1.h5"
-    },
+    }
+][
     {
         "artist": "The Verve",
         "song": "Bitter Sweet Symphony",
@@ -218,7 +459,8 @@
             "jazz"
         ],
         "filename": "TRAALAH128E078234A.h5"
-    },
+    }
+][
     {
         "artist": "Gary Smith",
         "song": "It's Your Store",
@@ -238,7 +480,8 @@
             "punk"
         ],
         "filename": "TRAAMLX12903CF5B92.h5"
-    },
+    }
+][
     {
         "artist": "Nine Inch Nails",
         "song": "The Frail",
@@ -258,7 +501,8 @@
             "pop"
         ],
         "filename": "TRAANZE128F148BF55.h5"
-    },
+    }
+][
     {
         "artist": "Queen + Paul Rodgers",
         "song": "We Are The Champions (Live In Ukraine)",
@@ -268,7 +512,8 @@
             "classic rock"
         ],
         "filename": "TRAAOPV128F92F7CE9.h5"
-    },
+    }
+][
     {
         "artist": "2 Fabiola",
         "song": "Magic Flight",
@@ -298,7 +543,8 @@
             "hip hop"
         ],
         "filename": "TRAAPVV128F425D64C.h5"
-    },
+    }
+][
     {
         "artist": "David Bowie",
         "song": "Life On Mars? (1990 Digital Remaster)",
@@ -308,7 +554,8 @@
             "electronic"
         ],
         "filename": "TRAAQZY128F9364CC3.h5"
-    },
+    }
+][
     {
         "artist": "Nat King Cole",
         "song": "When I Fall In Love",
@@ -318,7 +565,8 @@
             "electronic"
         ],
         "filename": "TRAARCW12903CEB779.h5"
-    },
+    }
+][
     {
         "artist": "Orbital",
         "song": "Illuminate",
@@ -368,7 +616,8 @@
             "instrumental"
         ],
         "filename": "TRAASNR12903CB443D.h5"
-    },
+    }
+][
     {
         "artist": "Harold Faltermeyer",
         "song": "Axel F",
@@ -378,7 +627,8 @@
             "synth-pop"
         ],
         "filename": "TRAATZB12903CC59D8.h5"
-    },
+    }
+][
     {
         "artist": "Steps",
         "song": "I Know Him So Well",
@@ -388,7 +638,8 @@
             "pop rock"
         ],
         "filename": "TRAAVUT128F92F74F7.h5"
-    },
+    }
+][
     {
         "artist": "Gerry Rafferty",
         "song": "Baker Street (Edit)",
@@ -398,7 +649,8 @@
             "house"
         ],
         "filename": "TRAAWSJ128F933D7EF.h5"
-    },
+    }
+][
     {
         "artist": "DMX / Sisqo",
         "song": "What These Bitches Want",
@@ -408,7 +660,8 @@
             "comedy"
         ],
         "filename": "TRAAXWM128F428A0F1.h5"
-    },
+    }
+][
     {
         "artist": "The Shirelles",
         "song": "Will You Love Me Tomorrow",
@@ -428,7 +681,8 @@
             "pop"
         ],
         "filename": "TRAAYGT128F4262DDF.h5"
-    },
+    }
+][
     {
         "artist": "Lionel Rogg",
         "song": "Prelude And Fugue In C Major BWV 531 : Fugue",
