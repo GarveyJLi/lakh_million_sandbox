@@ -4,16 +4,6 @@ This file is for downloading and uncompressing the Lakh Million Song Dataset (lm
 Credits for data - Garvey Li
 """
 
-"""
-**IMPORTANT** 
-
-Download these files (INTO THE resources/ FOLDER)
-    http://hog.ee.columbia.edu/craffel/lmd/lmd_aligned.tar.gz
-    http://hog.ee.columbia.edu/craffel/lmd/lmd_matched_h5.tar.gz
-                     
-**IMPORTANT**
-"""
-
 import requests
 import tarfile
 
