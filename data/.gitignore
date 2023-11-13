@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!match_genre.json
+!match_scores.json
+!loaded_data.json
+!metadata.npy
