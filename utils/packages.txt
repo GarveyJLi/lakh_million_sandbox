@@ -1,0 +1,10 @@
+scikit-learn
+numpy
+mido
+pretty_midi
+joblib
+matplotlib
+seaborn
+pandas
+tables
+
