@@ -1,0 +1,5 @@
+*
+
+!.gitignore
+!match_genre.json
+!match_scores.json
