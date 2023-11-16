@@ -1,0 +1,1265 @@
+Corrupt file:  ../data/lmd_aligned/A/B/Y/TRABYJG128F424D12B/2cdb25a9abc795d12679c3f6abc2b212.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  88
+Total Files Parsed:  88
+Corrupt file:  ../data/lmd_aligned/A/H/E/TRAHEJP128F930F4C5/1d2b92aa9e454280cca21fae99ebce8e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  347
+Total Files Parsed:  348
+Corrupt file:  ../data/lmd_aligned/A/M/T/TRAMTGA128F4274C93/2d5f3ae1620e208272d7c030d8413672.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  616
+Total Files Parsed:  618
+Corrupt file:  ../data/lmd_aligned/A/N/P/TRANPDP128F42902BA/546df09d78a32141369fcc17ff51cec0.mid
+Exception:  Could not decode key with 3 flats and mode 255
+Valid Data Size:  656
+Total Files Parsed:  659
+Corrupt file:  ../data/lmd_aligned/A/Q/D/TRAQDUR128F931B4E9/7d54d2e5ef58eeb5b23cc09bae22cf1b.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  795
+Total Files Parsed:  799
+Corrupt file:  ../data/lmd_aligned/A/S/A/TRASAYR128F92F822F/6b77e5bc6e765615e8a03d5b39eaf22b.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  881
+Total Files Parsed:  886
+Corrupt file:  ../data/lmd_aligned/A/U/R/TRAURYF128F147805D/76a65b8a309f9469687d2b2c824f21ee.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  999
+Total Files Parsed:  1005
+Corrupt file:  ../data/lmd_aligned/A/W/O/TRAWOYD128F4215DDD/e194b1f88efc883ef8a2b72a154af9b2.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  1101
+Total Files Parsed:  1108
+Corrupt file:  ../data/lmd_aligned/A/Y/Z/TRAYZHC128F148C729/f4b62525caec217f14bc6f4cd73baf86.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  1203
+Total Files Parsed:  1211
+Corrupt file:  ../data/lmd_aligned/A/Z/Z/TRAZZDD128F92CCBD6/ba2c6886f6ed8f7ac713373e651d9e7a.mid
+Exception:  Could not decode key with 1 flats and mode 255
+Valid Data Size:  1258
+Total Files Parsed:  1267
+Corrupt file:  ../data/lmd_aligned/B/E/J/TRBEJRR128F92E0494/e499602166a426aa0fe54f80102822ef.mid
+Exception:  
+Valid Data Size:  1468
+Total Files Parsed:  1478
+Creating backup
+Valid Data Size:  1500
+Corrupt file:  ../data/lmd_aligned/B/F/W/TRBFWNM128F42637F2/62a8b9e3a22fc92fc69b49d15d790f05.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  1539
+Total Files Parsed:  1550
+Corrupt file:  ../data/lmd_aligned/B/J/W/TRBJWUE12903CF49E3/098e898c7737608cb3d4de266881ea92.mid
+Exception:  Could not decode key with 2 flats and mode 255
+Valid Data Size:  1718
+Total Files Parsed:  1730
+Corrupt file:  ../data/lmd_aligned/B/K/A/TRBKAQF128F934B2AE/6a3e351f2d56790943bd3ed533b00995.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  1726
+Total Files Parsed:  1739
+Corrupt file:  ../data/lmd_aligned/B/L/H/TRBLHNN128E0792486/6677ffcd7561bc9dd8146e48046f5400.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  1785
+Total Files Parsed:  1799
+Corrupt file:  ../data/lmd_aligned/B/M/F/TRBMFRN128F92DD39F/0ab8282f106ade01f1ad2f9777141145.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  1821
+Total Files Parsed:  1836
+Corrupt file:  ../data/lmd_aligned/B/N/L/TRBNLHU128F14910D7/a14f09997143aca914303a316f4bb848.mid
+Exception:  
+Valid Data Size:  1870
+Total Files Parsed:  1886
+Corrupt file:  ../data/lmd_aligned/B/O/F/TRBOFTY128F14A37B1/2734cb37f071920a32efaa3042e4f641.mid
+Exception:  
+Valid Data Size:  1899
+Total Files Parsed:  1916
+Corrupt file:  ../data/lmd_aligned/B/Q/N/TRBQNXM128F4220F66/035ecccad0ebf5e7154aae9dab4f4cfe.mid
+Exception:  Could not decode key with 2 flats and mode 255
+Valid Data Size:  1995
+Total Files Parsed:  2013
+Corrupt file:  ../data/lmd_aligned/B/Q/U/TRBQUBO128E0790182/de4c3d1d7fecc375f013e76024e4878a.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  2002
+Total Files Parsed:  2021
+Corrupt file:  ../data/lmd_aligned/B/Q/U/TRBQUUG128F932A699/2cd18f27dc3e386be27b865ff59ed13f.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  2007
+Total Files Parsed:  2027
+Corrupt file:  ../data/lmd_aligned/B/U/M/TRBUMZC128F932009C/84ad0871ac9c525be379442da96ed3f5.mid
+Exception:  
+Valid Data Size:  2187
+Total Files Parsed:  2208
+Corrupt file:  ../data/lmd_aligned/B/V/B/TRBVBNS128F422B836/d59dab127cd66c2c6f612494aeb57680.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  2216
+Total Files Parsed:  2238
+Corrupt file:  ../data/lmd_aligned/B/V/S/TRBVSCU12903CDA9D8/2cdb25a9abc795d12679c3f6abc2b212.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  2243
+Total Files Parsed:  2266
+Corrupt file:  ../data/lmd_aligned/B/Y/J/TRBYJCT12903CF1F12/787c1d1352302ba1bef7fa944e71d1db.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  2371
+Total Files Parsed:  2395
+Corrupt file:  ../data/lmd_aligned/B/Z/A/TRBZAPY128F4260C5B/861be3565cd56ec99cf1d7dfc048c665.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  2410
+Total Files Parsed:  2435
+Corrupt file:  ../data/lmd_aligned/C/F/Q/TRCFQHK12903CB0D57/616a4d723dae184bba3ac6a102c60bb9.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  2717
+Total Files Parsed:  2743
+Corrupt file:  ../data/lmd_aligned/C/F/Y/TRCFYCZ128F92E6663/fa806fedeeef576637c1d5bc63669db5.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  2734
+Total Files Parsed:  2761
+Corrupt file:  ../data/lmd_aligned/C/H/C/TRCHCAN128F4284F7F/39cbe64791f9f0cec0a6dc2544d503f1.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  2795
+Total Files Parsed:  2823
+Corrupt file:  ../data/lmd_aligned/C/J/E/TRCJEJK128F149996C/ba2c6886f6ed8f7ac713373e651d9e7a.mid
+Exception:  Could not decode key with 1 flats and mode 255
+Valid Data Size:  2889
+Total Files Parsed:  2918
+Corrupt file:  ../data/lmd_aligned/C/J/G/TRCJGNA128E078F797/1ef43219e92a0dba7b1da2a7a4becb7e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  2895
+Total Files Parsed:  2925
+Corrupt file:  ../data/lmd_aligned/C/L/L/TRCLLKD128F92D8D6A/1d2b92aa9e454280cca21fae99ebce8e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  2994
+Total Files Parsed:  3025
+Creating backup
+Valid Data Size:  3000
+Corrupt file:  ../data/lmd_aligned/C/N/K/TRCNKAK12903CFB0C9/044dc3d34cd462e48fa067f9cd4adb0a.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  3095
+Total Files Parsed:  3127
+Corrupt file:  ../data/lmd_aligned/C/O/T/TRCOTFH128E078C611/698c837403d047dba72e2531618a13d4.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  3145
+Total Files Parsed:  3178
+Corrupt file:  ../data/lmd_aligned/C/O/U/TRCOUKS128F428C3A8/5288f2ff460a59d4d146314999ee5a53.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  3148
+Total Files Parsed:  3182
+Corrupt file:  ../data/lmd_aligned/C/P/D/TRCPDJI128F147E6C5/b9a83135f249f3d78ee4146a62ff36a7.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  3159
+Total Files Parsed:  3194
+Corrupt file:  ../data/lmd_aligned/C/Q/D/TRCQDMP128F42483E0/27e2424cc057f3c9fb4fedc2f62d6c40.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  3202
+Total Files Parsed:  3238
+Corrupt file:  ../data/lmd_aligned/C/R/P/TRCRPDH128F4288492/27e2424cc057f3c9fb4fedc2f62d6c40.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  3272
+Total Files Parsed:  3309
+Corrupt file:  ../data/lmd_aligned/C/V/F/TRCVFGZ128F42A4C91/b6669a8b25a563091002aae9ec0d0c58.mid
+Exception:  Could not decode key with 4 flats and mode 255
+Valid Data Size:  3445
+Total Files Parsed:  3483
+Corrupt file:  ../data/lmd_aligned/C/Y/X/TRCYXAK128F4263BE1/24df6523c8b68884e3224c3de859b9a1.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  3596
+Total Files Parsed:  3635
+Corrupt file:  ../data/lmd_aligned/D/D/P/TRDDPKL128F92CB66E/05d288c81622f5e661c63d01f72f1b56.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  3801
+Total Files Parsed:  3841
+Corrupt file:  ../data/lmd_aligned/D/E/H/TRDEHNR128F422AA30/f4b62525caec217f14bc6f4cd73baf86.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  3833
+Total Files Parsed:  3874
+Corrupt file:  ../data/lmd_aligned/D/J/O/TRDJOII128F933935B/c9f0f2df33e5cc7623bfd2351654bad4.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  4052
+Total Files Parsed:  4094
+Corrupt file:  ../data/lmd_aligned/D/M/V/TRDMVGR128F931EB99/098e898c7737608cb3d4de266881ea92.mid
+Exception:  Could not decode key with 2 flats and mode 255
+Valid Data Size:  4187
+Total Files Parsed:  4230
+Corrupt file:  ../data/lmd_aligned/D/Q/H/TRDQHVJ128F429E843/0f41f52afb5d397d00d65697cc741c41.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  4332
+Total Files Parsed:  4376
+Corrupt file:  ../data/lmd_aligned/D/T/D/TRDTDAT128F426AB1C/3fd07cf2acef8cea454edbf40248640e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  4445
+Total Files Parsed:  4490
+Corrupt file:  ../data/lmd_aligned/D/T/E/TRDTEGG128F1480E89/554046c0f7ba38c29843877030111c91.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  4449
+Total Files Parsed:  4495
+Creating backup
+Valid Data Size:  4500
+Corrupt file:  ../data/lmd_aligned/D/Y/G/TRDYGZV128F4276727/3f53ca2b9d3922f0e3542a692e54c00d.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  4667
+Total Files Parsed:  4714
+Corrupt file:  ../data/lmd_aligned/D/Y/L/TRDYLAN12903CD0371/c9f0f2df33e5cc7623bfd2351654bad4.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  4672
+Total Files Parsed:  4720
+Corrupt file:  ../data/lmd_aligned/E/A/Y/TREAYWA128F1485D7B/e194b1f88efc883ef8a2b72a154af9b2.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  4806
+Total Files Parsed:  4855
+Corrupt file:  ../data/lmd_aligned/E/B/J/TREBJQN128F92EEC28/629e2a758e370322ee48e1d5de1c9975.mid
+Exception:  
+Valid Data Size:  4821
+Total Files Parsed:  4871
+Corrupt file:  ../data/lmd_aligned/E/C/R/TRECRMW128F9321279/9f79f5113aa40a71564937281bcc077e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  4877
+Total Files Parsed:  4928
+Corrupt file:  ../data/lmd_aligned/E/G/F/TREGFWE128F9343C7C/7cf9dd1be056045319b59ab37c6746b4.mid
+Exception:  
+Valid Data Size:  5049
+Total Files Parsed:  5101
+Corrupt file:  ../data/lmd_aligned/E/G/J/TREGJCS128E0784FBC/6dbacc8f20bf4604d7f9827eb51bcbe4.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  5058
+Total Files Parsed:  5111
+Corrupt file:  ../data/lmd_aligned/E/G/M/TREGMUH128F4252DA3/6b44202612659b7ecc6c2a95d2af0e39.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  5062
+Total Files Parsed:  5116
+Corrupt file:  ../data/lmd_aligned/E/G/O/TREGOTM128F148704C/4af6d92c414e6c6a3ff10c3cb01983f8.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  5064
+Total Files Parsed:  5119
+Corrupt file:  ../data/lmd_aligned/E/H/S/TREHSIM128F424FAD7/36be514cae1370e9d771710158d7551f.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  5105
+Total Files Parsed:  5161
+Corrupt file:  ../data/lmd_aligned/E/I/R/TREIRDU128F421BACE/97febf9c10ff7f369c2073bfe9e4268e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  5149
+Total Files Parsed:  5206
+Corrupt file:  ../data/lmd_aligned/E/J/L/TREJLXJ12903D10BCD/ca1c7906ed80ade81206de8c2ebf1d89.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  5188
+Total Files Parsed:  5246
+Corrupt file:  ../data/lmd_aligned/E/L/V/TRELVJI12903CC90D7/73f73956ea82f63c4431d74622e0bce0.mid
+Exception:  could not broadcast input array from shape (30,) into shape (31,)
+Valid Data Size:  5312
+Total Files Parsed:  5371
+Corrupt file:  ../data/lmd_aligned/E/M/S/TREMSHR128E0786F66/47709a045385056f8bdb5529c786a833.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  5347
+Total Files Parsed:  5407
+Corrupt file:  ../data/lmd_aligned/E/P/C/TREPCID12903CA908B/26179c34ca07833ae95a08ba0c7bd846.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  5457
+Total Files Parsed:  5518
+Corrupt file:  ../data/lmd_aligned/E/P/D/TREPDNX128F92DD2A5/955b0cce851fc070885acd338e674751.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  5460
+Total Files Parsed:  5522
+Corrupt file:  ../data/lmd_aligned/E/Y/C/TREYCSB128F933BCAE/b9a83135f249f3d78ee4146a62ff36a7.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  5875
+Total Files Parsed:  5938
+Corrupt file:  ../data/lmd_aligned/E/Z/L/TREZLQY128F424EB04/9f79f5113aa40a71564937281bcc077e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  5943
+Total Files Parsed:  6007
+Creating backup
+Valid Data Size:  6000
+Corrupt file:  ../data/lmd_aligned/F/A/U/TRFAUOB128F4273F5E/a5c32497c73668df835d1f96114c84c4.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  6002
+Total Files Parsed:  6067
+Corrupt file:  ../data/lmd_aligned/F/C/K/TRFCKLE128F426EA72/75de0d2b28554c7476b3cc0b9cef96ad.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  6067
+Total Files Parsed:  6133
+Corrupt file:  ../data/lmd_aligned/F/D/R/TRFDRFK128F426C56E/676efa895d01686c4f71202cfda30e28.mid
+Exception:  
+Valid Data Size:  6126
+Total Files Parsed:  6193
+Corrupt file:  ../data/lmd_aligned/F/K/Z/TRFKZTD128F4248A29/b022f1d8bea4c8a4879d642faffa65dd.mid
+Exception:  
+Valid Data Size:  6465
+Total Files Parsed:  6533
+Corrupt file:  ../data/lmd_aligned/F/N/H/TRFNHII128EF34E28C/ba2c6886f6ed8f7ac713373e651d9e7a.mid
+Exception:  Could not decode key with 1 flats and mode 255
+Valid Data Size:  6557
+Total Files Parsed:  6626
+Corrupt file:  ../data/lmd_aligned/F/N/S/TRFNSIF128E078F147/d1977d0fbb16add35a506b762a9b19be.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  6576
+Total Files Parsed:  6646
+Corrupt file:  ../data/lmd_aligned/F/O/J/TRFOJCI12903CC6F9A/1bfc8236ebb88b0382f1b428e95cb2dd.mid
+Exception:  Could not decode key with 5 flats and mode 255
+Valid Data Size:  6604
+Total Files Parsed:  6675
+Corrupt file:  ../data/lmd_aligned/F/P/J/TRFPJWJ128F428FA10/ff243093e079fdc5c5f413b92ec2967e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  6646
+Total Files Parsed:  6718
+Corrupt file:  ../data/lmd_aligned/F/Q/L/TRFQLJZ128EF34588E/5bbf816ab8ee57be1d92b57798ae00e1.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  6687
+Total Files Parsed:  6760
+Corrupt file:  ../data/lmd_aligned/F/Q/R/TRFQRTW128F4276518/1bfc8236ebb88b0382f1b428e95cb2dd.mid
+Exception:  Could not decode key with 5 flats and mode 255
+Valid Data Size:  6699
+Total Files Parsed:  6773
+Corrupt file:  ../data/lmd_aligned/F/U/D/TRFUDBA128F9320F6E/a5c32497c73668df835d1f96114c84c4.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  6872
+Total Files Parsed:  6947
+Corrupt file:  ../data/lmd_aligned/F/Z/C/TRFZCME128F147EEA1/5d18ae32f992157db83bc359b821aeb3.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  7113
+Total Files Parsed:  7189
+Corrupt file:  ../data/lmd_aligned/F/Z/E/TRFZEVB128F425F1DB/ae1d5fc2a8cad6e8582b8f3748ba058e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  7120
+Total Files Parsed:  7197
+Corrupt file:  ../data/lmd_aligned/F/Z/Q/TRFZQXL128F930924A/df0be0552b2ca76f29c2ef1a020a1d25.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  7144
+Total Files Parsed:  7222
+Corrupt file:  ../data/lmd_aligned/G/C/A/TRGCACW128F4289734/3bbc0d92f236c7cba6448caaffa12e2f.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  7251
+Total Files Parsed:  7330
+Corrupt file:  ../data/lmd_aligned/G/C/H/TRGCHLH12903CB7352/9604b32a292590391b10b87516816f51.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  7268
+Total Files Parsed:  7348
+Corrupt file:  ../data/lmd_aligned/G/C/O/TRGCOYC128F427AEBB/6cadd2684150e984690ee0a4c7da5ec8.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  7288
+Total Files Parsed:  7369
+Corrupt file:  ../data/lmd_aligned/G/F/O/TRGFOOV128F9302CA3/93de7d9747fa075dd878880eb3c2651f.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  7440
+Total Files Parsed:  7522
+Corrupt file:  ../data/lmd_aligned/G/F/W/TRGFWNZ128F425E59D/40709a2b70b2578f5e8cd5b2ec8bb688.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  7460
+Total Files Parsed:  7543
+Creating backup
+Valid Data Size:  7500
+Corrupt file:  ../data/lmd_aligned/G/H/K/TRGHKQP128F424AA43/1bfc8236ebb88b0382f1b428e95cb2dd.mid
+Exception:  Could not decode key with 5 flats and mode 255
+Valid Data Size:  7543
+Total Files Parsed:  7627
+Corrupt file:  ../data/lmd_aligned/G/J/M/TRGJMRT128F4263548/0b0812979e33c132046d24575ff810cf.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  7644
+Total Files Parsed:  7729
+Corrupt file:  ../data/lmd_aligned/G/K/Y/TRGKYIR128F93010A3/e848ed42ec8101ca0d7ff3f37cda1641.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  7709
+Total Files Parsed:  7795
+Corrupt file:  ../data/lmd_aligned/G/L/J/TRGLJYM128EF35EE91/bf2c5319603b7e00cee3b4f7dd13d8cd.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  7735
+Total Files Parsed:  7822
+Corrupt file:  ../data/lmd_aligned/G/L/K/TRGLKMZ128F4290BD1/9ee74b379c1a3c98380c5ad650631f5f.mid
+Exception:  Could not decode key with 1 flats and mode 255
+Valid Data Size:  7735
+Total Files Parsed:  7823
+Corrupt file:  ../data/lmd_aligned/G/Q/S/TRGQSDZ12903CFB7B8/9fee467c0a7659274bb751b910ae34df.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  8012
+Total Files Parsed:  8101
+Corrupt file:  ../data/lmd_aligned/G/S/A/TRGSAIQ128F9336AAA/861be3565cd56ec99cf1d7dfc048c665.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  8077
+Total Files Parsed:  8167
+Corrupt file:  ../data/lmd_aligned/G/S/B/TRGSBBK128F9350BDD/978af900af3f79095817cec059fbbdf2.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  8077
+Total Files Parsed:  8168
+Corrupt file:  ../data/lmd_aligned/G/S/S/TRGSSCI128F933D9C1/c9f0f2df33e5cc7623bfd2351654bad4.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  8105
+Total Files Parsed:  8197
+Corrupt file:  ../data/lmd_aligned/G/T/H/TRGTHCA128E0782187/6b44202612659b7ecc6c2a95d2af0e39.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  8130
+Total Files Parsed:  8223
+Corrupt file:  ../data/lmd_aligned/G/V/E/TRGVEDW12903C9E524/e85f327a1b016f6bc50000c709a04407.mid
+Exception:  
+Valid Data Size:  8197
+Total Files Parsed:  8291
+Corrupt file:  ../data/lmd_aligned/G/V/E/TRGVEVD128F427E08C/1bfc8236ebb88b0382f1b428e95cb2dd.mid
+Exception:  Could not decode key with 5 flats and mode 255
+Valid Data Size:  8197
+Total Files Parsed:  8292
+Corrupt file:  ../data/lmd_aligned/G/W/P/TRGWPYW128F42389A9/ee4aa97d0157cecca0f685a4fb267b6f.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  8271
+Total Files Parsed:  8367
+Corrupt file:  ../data/lmd_aligned/H/B/P/TRHBPXU128F4255D9F/ba2c6886f6ed8f7ac713373e651d9e7a.mid
+Exception:  Could not decode key with 1 flats and mode 255
+Valid Data Size:  8487
+Total Files Parsed:  8584
+Corrupt file:  ../data/lmd_aligned/H/F/F/TRHFFOC128F92F901F/9475d9e1cd8cc716337c50a34a6b2bfb.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  8664
+Total Files Parsed:  8762
+Corrupt file:  ../data/lmd_aligned/H/H/Z/TRHHZRC128F4243455/9cf2822ed72e2dfdde4a8b958d8eab60.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  8804
+Total Files Parsed:  8903
+Corrupt file:  ../data/lmd_aligned/H/I/I/TRHIIGK128F931572C/6e4a796623bf0f7bfb5b06f0847db3a8.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  8822
+Total Files Parsed:  8922
+Creating backup
+Valid Data Size:  9000
+Corrupt file:  ../data/lmd_aligned/H/Q/C/TRHQCSH128F42724B7/fff3f4e8a473f7c9a468f34bb4554ab6.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  9184
+Total Files Parsed:  9285
+Corrupt file:  ../data/lmd_aligned/H/Q/M/TRHQMUZ128F428EBCE/143a8443036605875d21dc2792401f8e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  9197
+Total Files Parsed:  9299
+Corrupt file:  ../data/lmd_aligned/H/T/U/TRHTUDA12903D01306/6a20316b350837646ed173e83b4a0503.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  9342
+Total Files Parsed:  9445
+Corrupt file:  ../data/lmd_aligned/H/X/X/TRHXXTR128F4225B4A/37a6daf538a76096cff907ddd661380a.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  9552
+Total Files Parsed:  9656
+Corrupt file:  ../data/lmd_aligned/H/Z/K/TRHZKPG128F426025A/40709a2b70b2578f5e8cd5b2ec8bb688.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  9622
+Total Files Parsed:  9727
+Corrupt file:  ../data/lmd_aligned/I/F/I/TRIFIGH128F4283C1D/b022f1d8bea4c8a4879d642faffa65dd.mid
+Exception:  
+Valid Data Size:  9885
+Total Files Parsed:  9991
+Corrupt file:  ../data/lmd_aligned/I/L/M/TRILMUV128F1491C1F/e09f98773502d44e83056f684edde24b.mid
+Exception:  
+Valid Data Size:  10158
+Total Files Parsed:  10265
+Corrupt file:  ../data/lmd_aligned/I/L/R/TRILRTC128F424AA45/53a0504db1467ce66d04736437fb243e.mid
+Exception:  Could not decode key with 2 flats and mode 255
+Valid Data Size:  10161
+Total Files Parsed:  10269
+Corrupt file:  ../data/lmd_aligned/I/M/E/TRIMECG128F92D0147/0faba1604b59ed7c213b0f119f7155fd.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  10181
+Total Files Parsed:  10290
+Corrupt file:  ../data/lmd_aligned/I/P/N/TRIPNEP128E07877F5/6b58d6612010f9c3df48212ee05b5880.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  10314
+Total Files Parsed:  10424
+Corrupt file:  ../data/lmd_aligned/I/P/Q/TRIPQQA128E0791249/39cbe64791f9f0cec0a6dc2544d503f1.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  10316
+Total Files Parsed:  10427
+Corrupt file:  ../data/lmd_aligned/I/P/S/TRIPSDS128F92EF662/fcf11490e183675a00c7ddb2b1560a53.mid
+Exception:  
+Valid Data Size:  10317
+Total Files Parsed:  10429
+Corrupt file:  ../data/lmd_aligned/I/Q/O/TRIQOWE12903CD02A3/b2ff3b9362df6a49ac1b90e0786188a9.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  10350
+Total Files Parsed:  10463
+Creating backup
+Valid Data Size:  10500
+Corrupt file:  ../data/lmd_aligned/I/Z/I/TRIZIMS128F426A642/861be3565cd56ec99cf1d7dfc048c665.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  10734
+Total Files Parsed:  10848
+Corrupt file:  ../data/lmd_aligned/J/C/H/TRJCHSL128F93263E6/e3cb2a980d5a4dc4c3b169aa66b81c9b.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  10865
+Total Files Parsed:  10980
+Corrupt file:  ../data/lmd_aligned/J/C/R/TRJCRNT128F4226CBD/546df09d78a32141369fcc17ff51cec0.mid
+Exception:  Could not decode key with 3 flats and mode 255
+Valid Data Size:  10881
+Total Files Parsed:  10997
+Corrupt file:  ../data/lmd_aligned/J/C/X/TRJCXRM128F93397B7/87987434522a3ec37f66d9a4ad4f47e6.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  10892
+Total Files Parsed:  11009
+Corrupt file:  ../data/lmd_aligned/J/F/S/TRJFSMS128F4287E02/a7026c0831936e659f2cffd4b08453fd.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  11025
+Total Files Parsed:  11143
+Corrupt file:  ../data/lmd_aligned/J/G/I/TRJGIDC128F9308943/bf2c5319603b7e00cee3b4f7dd13d8cd.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  11053
+Total Files Parsed:  11172
+Corrupt file:  ../data/lmd_aligned/J/K/B/TRJKBEJ128F14595A1/80a7afe6064766d8f57a27713d8844dc.mid
+Exception:  
+Valid Data Size:  11202
+Total Files Parsed:  11322
+Corrupt file:  ../data/lmd_aligned/J/O/S/TRJOSBB128F9337518/63baf22f47e30843012a0a7c297598a1.mid
+Exception:  
+Valid Data Size:  11406
+Total Files Parsed:  11527
+Corrupt file:  ../data/lmd_aligned/J/S/L/TRJSLGC128F42B84FD/75de0d2b28554c7476b3cc0b9cef96ad.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  11595
+Total Files Parsed:  11717
+Corrupt file:  ../data/lmd_aligned/J/U/V/TRJUVYQ128F4279A50/69d62e62b810e3ed34b6538447b05cfc.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  11694
+Total Files Parsed:  11817
+Creating backup
+Valid Data Size:  12000
+Corrupt file:  ../data/lmd_aligned/K/D/V/TRKDVCV128E0791712/80ef73bafeafb84fbc6cdece441053f9.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  12085
+Total Files Parsed:  12209
+Corrupt file:  ../data/lmd_aligned/K/H/E/TRKHEOC128F9352835/089b28e63de3f396ede740eb9bd3e97a.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  12232
+Total Files Parsed:  12357
+Corrupt file:  ../data/lmd_aligned/K/N/L/TRKNLVP128F93435B3/1d2b92aa9e454280cca21fae99ebce8e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  12482
+Total Files Parsed:  12608
+Corrupt file:  ../data/lmd_aligned/K/Q/D/TRKQDJD128F931EF8B/cc10070c1d6389019ca21489a397b27e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  12591
+Total Files Parsed:  12718
+Corrupt file:  ../data/lmd_aligned/K/T/R/TRKTRGF128F42B323B/62a8b9e3a22fc92fc69b49d15d790f05.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  12754
+Total Files Parsed:  12882
+Corrupt file:  ../data/lmd_aligned/K/X/P/TRKXPZC128F932B753/0b0812979e33c132046d24575ff810cf.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  12948
+Total Files Parsed:  13077
+Corrupt file:  ../data/lmd_aligned/K/Z/Q/TRKZQMX128F14774F1/f2b02a53f838c42c7a479689f9b0bf81.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  13035
+Total Files Parsed:  13165
+Corrupt file:  ../data/lmd_aligned/L/B/Q/TRLBQQC128F92D307E/84ad0871ac9c525be379442da96ed3f5.mid
+Exception:  
+Valid Data Size:  13128
+Total Files Parsed:  13259
+Corrupt file:  ../data/lmd_aligned/L/D/W/TRLDWOI128F429A42A/8bfeabc3dd3f2426fa3f05084420a663.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  13244
+Total Files Parsed:  13376
+Corrupt file:  ../data/lmd_aligned/L/D/X/TRLDXIZ128F426DA54/f0bee93bf98e7c744137e3aa0e900a8a.mid
+Exception:  
+Valid Data Size:  13244
+Total Files Parsed:  13377
+Creating backup
+Valid Data Size:  13500
+Corrupt file:  ../data/lmd_aligned/L/N/Q/TRLNQGI128F92D5D37/ca1c7906ed80ade81206de8c2ebf1d89.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  13703
+Total Files Parsed:  13837
+Corrupt file:  ../data/lmd_aligned/L/O/A/TRLOAAJ128F148A279/4ee2b169f856924efa9a6506e79d3b27.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  13719
+Total Files Parsed:  13854
+Corrupt file:  ../data/lmd_aligned/L/T/X/TRLTXVJ128F4271771/862b82b54c211fd12796bb6c23282e11.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  13983
+Total Files Parsed:  14119
+Corrupt file:  ../data/lmd_aligned/L/V/T/TRLVTWI128F92EFEA7/1d2b92aa9e454280cca21fae99ebce8e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  14070
+Total Files Parsed:  14207
+Corrupt file:  ../data/lmd_aligned/M/E/A/TRMEAGA128F4266CFB/0b0812979e33c132046d24575ff810cf.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  14443
+Total Files Parsed:  14581
+Corrupt file:  ../data/lmd_aligned/M/E/T/TRMETZM128F427513E/2cdb25a9abc795d12679c3f6abc2b212.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  14480
+Total Files Parsed:  14619
+Corrupt file:  ../data/lmd_aligned/M/H/F/TRMHFAK128F92DFFE3/a49d02d6f326cb3bf9b2d8bab5622e7a.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  14590
+Total Files Parsed:  14730
+Corrupt file:  ../data/lmd_aligned/M/H/Z/TRMHZDA128F42950E1/73c70bb30b7ab142b4360d2c6e7da634.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  14622
+Total Files Parsed:  14763
+Corrupt file:  ../data/lmd_aligned/M/I/W/TRMIWRG128F42636CE/75aa9bfa965f096ce7cff2cd0d68fc98.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  14679
+Total Files Parsed:  14821
+Corrupt file:  ../data/lmd_aligned/M/J/O/TRMJOKW12903CDDB1B/b9a83135f249f3d78ee4146a62ff36a7.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  14714
+Total Files Parsed:  14857
+Corrupt file:  ../data/lmd_aligned/M/N/B/TRMNBFG128F932BAEB/861be3565cd56ec99cf1d7dfc048c665.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  14861
+Total Files Parsed:  15005
+Corrupt file:  ../data/lmd_aligned/M/O/H/TRMOHQY128F1467D0B/76666a63f11fc158a8e49fb2d5463303.mid
+Exception:  Could not decode key with 1 flats and mode 255
+Valid Data Size:  14918
+Total Files Parsed:  15063
+Corrupt file:  ../data/lmd_aligned/M/P/F/TRMPFNL128F427F0BF/5711e0cb2d8d94fa98bcc1a09d71b70a.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  14967
+Total Files Parsed:  15113
+Creating backup
+Valid Data Size:  15000
+Corrupt file:  ../data/lmd_aligned/M/Q/R/TRMQRTH128F42592D3/4d69ce92cf485bb75144da596f5bd1fa.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15033
+Total Files Parsed:  15180
+Corrupt file:  ../data/lmd_aligned/M/T/Y/TRMTYXC12903CA8847/d56312258d122bfab8cff7af17694e17.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15180
+Total Files Parsed:  15328
+Corrupt file:  ../data/lmd_aligned/M/U/I/TRMUICC12903CC14B1/40709a2b70b2578f5e8cd5b2ec8bb688.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15201
+Total Files Parsed:  15350
+Corrupt file:  ../data/lmd_aligned/M/W/E/TRMWEOC128F9322C97/1391dbaabf47b4145eac68d2452579dc.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15275
+Total Files Parsed:  15425
+Corrupt file:  ../data/lmd_aligned/M/W/F/TRMWFCA128F425EB8C/123bed39220cac8584d041f39f8ea82e.mid
+Exception:  
+Valid Data Size:  15275
+Total Files Parsed:  15426
+Corrupt file:  ../data/lmd_aligned/M/W/N/TRMWNOO128F9309A56/73f73956ea82f63c4431d74622e0bce0.mid
+Exception:  could not broadcast input array from shape (30,) into shape (31,)
+Valid Data Size:  15290
+Total Files Parsed:  15442
+Corrupt file:  ../data/lmd_aligned/M/Y/G/TRMYGIJ128F426ABFF/62a8b9e3a22fc92fc69b49d15d790f05.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15367
+Total Files Parsed:  15520
+Corrupt file:  ../data/lmd_aligned/N/C/E/TRNCEUK12903CCC629/e86b6eb888f57028bb88a9a81c3f5637.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15548
+Total Files Parsed:  15702
+Corrupt file:  ../data/lmd_aligned/N/C/S/TRNCSKU128F4265639/7d53937ea214c6f6e679ceb800536b35.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15580
+Total Files Parsed:  15735
+Corrupt file:  ../data/lmd_aligned/N/D/W/TRNDWMD128F9307D63/589f3c4b67b61ff3cdde880b85331089.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15633
+Total Files Parsed:  15789
+Corrupt file:  ../data/lmd_aligned/N/E/D/TRNEDHP128F92CCCDF/2993727baaf9226c6bb0527bc52e7ab4.mid
+Exception:  
+Valid Data Size:  15646
+Total Files Parsed:  15803
+Corrupt file:  ../data/lmd_aligned/N/E/T/TRNETGG128E079264C/ed7292c1a4eef36d9f8e5d6cbb457a7e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15669
+Total Files Parsed:  15827
+Corrupt file:  ../data/lmd_aligned/N/G/R/TRNGRZM128F427192A/3b26942950990530ea936fa4435a8d73.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15750
+Total Files Parsed:  15909
+Corrupt file:  ../data/lmd_aligned/N/G/S/TRNGSHX128F42365CE/8cdbc2b52e36bc6591eff8e809fd92ef.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15750
+Total Files Parsed:  15910
+Corrupt file:  ../data/lmd_aligned/N/J/T/TRNJTAU12903CBB760/bea02ea515ab602016d2e6892798f249.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15897
+Total Files Parsed:  16058
+Corrupt file:  ../data/lmd_aligned/N/L/L/TRNLLUG128F9333AD8/594229a32df76353c0bb5ba379e22cd1.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15979
+Total Files Parsed:  16141
+Corrupt file:  ../data/lmd_aligned/N/L/T/TRNLTPQ128F42287AF/861be3565cd56ec99cf1d7dfc048c665.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  15991
+Total Files Parsed:  16154
+Corrupt file:  ../data/lmd_aligned/N/T/M/TRNTMLI128F93358EB/9f79f5113aa40a71564937281bcc077e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  16349
+Total Files Parsed:  16513
+Corrupt file:  ../data/lmd_aligned/N/V/K/TRNVKWU128F425F3C2/69d62e62b810e3ed34b6538447b05cfc.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  16431
+Total Files Parsed:  16596
+Corrupt file:  ../data/lmd_aligned/N/W/G/TRNWGJW128F427483E/861be3565cd56ec99cf1d7dfc048c665.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  16464
+Total Files Parsed:  16630
+Creating backup
+Valid Data Size:  16500
+Corrupt file:  ../data/lmd_aligned/N/X/H/TRNXHQQ128F14AF369/b6669a8b25a563091002aae9ec0d0c58.mid
+Exception:  Could not decode key with 4 flats and mode 255
+Valid Data Size:  16513
+Total Files Parsed:  16680
+Corrupt file:  ../data/lmd_aligned/N/X/U/TRNXUFP128F934E3C4/84ad0871ac9c525be379442da96ed3f5.mid
+Exception:  
+Valid Data Size:  16542
+Total Files Parsed:  16710
+Corrupt file:  ../data/lmd_aligned/O/A/J/TROAJPZ12903CFBAB1/098e898c7737608cb3d4de266881ea92.mid
+Exception:  Could not decode key with 2 flats and mode 255
+Valid Data Size:  16668
+Total Files Parsed:  16837
+Corrupt file:  ../data/lmd_aligned/O/F/B/TROFBYC128F92FA236/e848ed42ec8101ca0d7ff3f37cda1641.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  16883
+Total Files Parsed:  17053
+Corrupt file:  ../data/lmd_aligned/O/G/B/TROGBID128F426377E/22a03272e0b360487723e52dff07b7cd.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  16917
+Total Files Parsed:  17088
+Corrupt file:  ../data/lmd_aligned/O/G/T/TROGTWU128F9340628/e499602166a426aa0fe54f80102822ef.mid
+Exception:  
+Valid Data Size:  16951
+Total Files Parsed:  17123
+Corrupt file:  ../data/lmd_aligned/O/H/R/TROHRUF128F42AD54A/3f53ca2b9d3922f0e3542a692e54c00d.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  16987
+Total Files Parsed:  17160
+Corrupt file:  ../data/lmd_aligned/O/K/J/TROKJZW12903CE4DA8/c871c366bd424a848b54b29dce00bbfe.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  17106
+Total Files Parsed:  17280
+Corrupt file:  ../data/lmd_aligned/O/L/K/TROLKIB128F9337112/437ce604861b56d25b8c192befc6c2c6.mid
+Exception:  Could not decode key with 1 flats and mode 255
+Valid Data Size:  17149
+Total Files Parsed:  17324
+Corrupt file:  ../data/lmd_aligned/O/L/W/TROLWZU128E078634D/93de7d9747fa075dd878880eb3c2651f.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  17179
+Total Files Parsed:  17355
+Corrupt file:  ../data/lmd_aligned/O/M/T/TROMTTM128F934282F/8a86b0751162dcbdc1b3e21c235e45da.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  17213
+Total Files Parsed:  17390
+Corrupt file:  ../data/lmd_aligned/O/N/X/TRONXXY128F92DD510/fdf6f5abc9a87c4af2028aa3aa5a2a08.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  17279
+Total Files Parsed:  17457
+Corrupt file:  ../data/lmd_aligned/O/O/T/TROOTIK128F92FDE2A/bf2c5319603b7e00cee3b4f7dd13d8cd.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  17319
+Total Files Parsed:  17498
+Corrupt file:  ../data/lmd_aligned/O/P/S/TROPSHL128F4289E34/f4b62525caec217f14bc6f4cd73baf86.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  17353
+Total Files Parsed:  17533
+Corrupt file:  ../data/lmd_aligned/O/P/T/TROPTMU128F92E616C/bf2c5319603b7e00cee3b4f7dd13d8cd.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  17354
+Total Files Parsed:  17535
+Corrupt file:  ../data/lmd_aligned/O/W/O/TROWOWR128F92DE53B/3f53ca2b9d3922f0e3542a692e54c00d.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  17665
+Total Files Parsed:  17847
+Corrupt file:  ../data/lmd_aligned/P/B/E/TRPBEDC128F4293DBF/da2574d6b2836a96a14eed38ed126b0d.mid
+Exception:  Could not decode key with 5 flats and mode 255
+Valid Data Size:  17867
+Total Files Parsed:  18050
+Corrupt file:  ../data/lmd_aligned/P/C/A/TRPCAOD128E0788980/3bbc0d92f236c7cba6448caaffa12e2f.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  17907
+Total Files Parsed:  18091
+Corrupt file:  ../data/lmd_aligned/P/C/D/TRPCDJW128F14AD107/546df09d78a32141369fcc17ff51cec0.mid
+Exception:  Could not decode key with 3 flats and mode 255
+Valid Data Size:  17912
+Total Files Parsed:  18097
+Corrupt file:  ../data/lmd_aligned/P/D/H/TRPDHIY128F4275767/3aff3b232365ac86dfd561a0efdb0a2e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  17969
+Total Files Parsed:  18155
+Creating backup
+Valid Data Size:  18000
+Corrupt file:  ../data/lmd_aligned/P/E/L/TRPELWR128F427A0A8/d66b9c6c36a64a5dd1040008b828c419.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  18028
+Total Files Parsed:  18215
+Corrupt file:  ../data/lmd_aligned/P/I/G/TRPIGJX128F427D3DC/8aec91781bfc1789f309676e6ac1e625.mid
+Exception:  
+Valid Data Size:  18202
+Total Files Parsed:  18390
+Corrupt file:  ../data/lmd_aligned/P/L/F/TRPLFHR128F42709E7/862b82b54c211fd12796bb6c23282e11.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  18345
+Total Files Parsed:  18534
+Corrupt file:  ../data/lmd_aligned/P/M/H/TRPMHKH128F422B8F9/9f79f5113aa40a71564937281bcc077e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  18392
+Total Files Parsed:  18582
+Corrupt file:  ../data/lmd_aligned/P/S/T/TRPSTEH128F427E8DD/84ad0871ac9c525be379442da96ed3f5.mid
+Exception:  
+Valid Data Size:  18684
+Total Files Parsed:  18875
+Corrupt file:  ../data/lmd_aligned/P/U/F/TRPUFXU128F14745E9/a259876228f5e5f5115849118391d5a0.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  18746
+Total Files Parsed:  18938
+Corrupt file:  ../data/lmd_aligned/P/U/S/TRPUSYV128F92F4736/62f4d8788ba05f3c49ebfa6fc9164621.mid
+Exception:  
+Valid Data Size:  18766
+Total Files Parsed:  18959
+Corrupt file:  ../data/lmd_aligned/P/V/N/TRPVNUR128F42888FA/6b58d6612010f9c3df48212ee05b5880.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  18797
+Total Files Parsed:  18991
+Corrupt file:  ../data/lmd_aligned/P/W/I/TRPWICZ12903D0C817/8bfeabc3dd3f2426fa3f05084420a663.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  18832
+Total Files Parsed:  19027
+Corrupt file:  ../data/lmd_aligned/P/Y/P/TRPYPEI128F422A200/6b77e5bc6e765615e8a03d5b39eaf22b.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  18917
+Total Files Parsed:  19113
+Corrupt file:  ../data/lmd_aligned/Q/A/F/TRQAFIC128F1491A98/cfdc20d17d7ae95f3493dbf1c3177148.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  18979
+Total Files Parsed:  19176
+Corrupt file:  ../data/lmd_aligned/Q/C/E/TRQCERY12903CBF361/e499602166a426aa0fe54f80102822ef.mid
+Exception:  
+Valid Data Size:  19075
+Total Files Parsed:  19273
+Corrupt file:  ../data/lmd_aligned/Q/E/W/TRQEWHP128F93042DE/5e22504465505a9f062b9e282420d627.mid
+Exception:  Could not decode key with 1 flats and mode 255
+Valid Data Size:  19201
+Total Files Parsed:  19400
+Corrupt file:  ../data/lmd_aligned/Q/E/Z/TRQEZFK128F9341CA1/eb34dfc3807e40b63e71826382adbd5e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  19203
+Total Files Parsed:  19403
+Corrupt file:  ../data/lmd_aligned/Q/G/F/TRQGFOY128F1491F3D/a3b878088406be96eb6e40c99db08273.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  19263
+Total Files Parsed:  19464
+Corrupt file:  ../data/lmd_aligned/Q/L/C/TRQLCDW128F1451AF3/c871c366bd424a848b54b29dce00bbfe.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  19479
+Total Files Parsed:  19681
+Creating backup
+Valid Data Size:  19500
+Corrupt file:  ../data/lmd_aligned/Q/N/Z/TRQNZBB12903D0EA7B/787c1d1352302ba1bef7fa944e71d1db.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  19592
+Total Files Parsed:  19795
+Corrupt file:  ../data/lmd_aligned/Q/O/D/TRQODEY12903CF7594/5711e0cb2d8d94fa98bcc1a09d71b70a.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  19600
+Total Files Parsed:  19804
+Corrupt file:  ../data/lmd_aligned/Q/P/V/TRQPVGI128F4220CDA/27e2424cc057f3c9fb4fedc2f62d6c40.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  19687
+Total Files Parsed:  19892
+Corrupt file:  ../data/lmd_aligned/Q/R/M/TRQRMKL128F4253BAF/c9f00659b843001c24c2bfaa6fdbd922.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  19786
+Total Files Parsed:  19992
+Corrupt file:  ../data/lmd_aligned/Q/S/C/TRQSCTH12903CCF32C/cb972d0f3cb449fae69342d1e20b5007.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  19805
+Total Files Parsed:  20012
+Corrupt file:  ../data/lmd_aligned/Q/V/X/TRQVXIY128E07943ED/9475d9e1cd8cc716337c50a34a6b2bfb.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  19964
+Total Files Parsed:  20172
+Corrupt file:  ../data/lmd_aligned/Q/X/E/TRQXEUR128F4256927/53b032afa5da750187fbd5e16c341474.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  20021
+Total Files Parsed:  20230
+Corrupt file:  ../data/lmd_aligned/R/G/E/TRRGEJM128F1480E86/b9f036f4b023b85acb04ef5bbc697c87.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  20422
+Total Files Parsed:  20632
+Corrupt file:  ../data/lmd_aligned/R/H/K/TRRHKYP128F4220F6E/1bfc8236ebb88b0382f1b428e95cb2dd.mid
+Exception:  Could not decode key with 5 flats and mode 255
+Valid Data Size:  20481
+Total Files Parsed:  20692
+Corrupt file:  ../data/lmd_aligned/R/H/Z/TRRHZML128F92FDE10/bf2c5319603b7e00cee3b4f7dd13d8cd.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  20507
+Total Files Parsed:  20719
+Corrupt file:  ../data/lmd_aligned/R/K/F/TRRKFEP128F42AD604/b022f1d8bea4c8a4879d642faffa65dd.mid
+Exception:  
+Valid Data Size:  20609
+Total Files Parsed:  20822
+Corrupt file:  ../data/lmd_aligned/R/K/S/TRRKSJO128F4274499/62a8b9e3a22fc92fc69b49d15d790f05.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  20629
+Total Files Parsed:  20843
+Corrupt file:  ../data/lmd_aligned/R/L/V/TRRLVUI128F932ACC8/a3b878088406be96eb6e40c99db08273.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  20681
+Total Files Parsed:  20896
+Creating backup
+Valid Data Size:  21000
+Corrupt file:  ../data/lmd_aligned/R/U/I/TRRUIKN128E078218F/c03a94962031205a7656296e967b92f7.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  21051
+Total Files Parsed:  21267
+Corrupt file:  ../data/lmd_aligned/R/X/S/TRRXSEK128E078F6C7/2ca282ce94040dbc73e05112073ff372.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  21218
+Total Files Parsed:  21435
+Corrupt file:  ../data/lmd_aligned/S/E/K/TRSEKRS12903CBB4FF/5693ab7fdf127fe7db2f804f445d8034.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  21496
+Total Files Parsed:  21714
+Corrupt file:  ../data/lmd_aligned/S/F/M/TRSFMZE128F428883C/3506f3e3cd75ddcb3728881151cbb849.mid
+Exception:  Could not decode key with 2 flats and mode 255
+Valid Data Size:  21545
+Total Files Parsed:  21764
+Corrupt file:  ../data/lmd_aligned/S/I/H/TRSIHXI128F931F38A/9b3d6e32ab61b4746afa9a5eeba86163.mid
+Exception:  could not broadcast input array from shape (31,) into shape (32,)
+Valid Data Size:  21665
+Total Files Parsed:  21885
+Corrupt file:  ../data/lmd_aligned/S/L/L/TRSLLXI128F92E2BA1/76a65b8a309f9469687d2b2c824f21ee.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  21817
+Total Files Parsed:  22038
+Corrupt file:  ../data/lmd_aligned/S/O/P/TRSOPXU128F92C7247/26179c34ca07833ae95a08ba0c7bd846.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  21974
+Total Files Parsed:  22196
+Corrupt file:  ../data/lmd_aligned/S/R/T/TRSRTRW128F92CD554/b7e83de910bdc1b7c4b7839bce4814bd.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  22120
+Total Files Parsed:  22343
+Corrupt file:  ../data/lmd_aligned/S/T/M/TRSTMUC128F4271B21/c6e36f0db6e0d4d2dfaa8ce83116b394.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  22199
+Total Files Parsed:  22423
+Creating backup
+Valid Data Size:  22500
+Corrupt file:  ../data/lmd_aligned/T/C/N/TRTCNOE128F4281777/b9a83135f249f3d78ee4146a62ff36a7.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  22563
+Total Files Parsed:  22788
+Corrupt file:  ../data/lmd_aligned/T/F/Z/TRTFZJV128F92ECDA0/74331b8e374c3a7bc95c29871615779e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  22718
+Total Files Parsed:  22944
+Corrupt file:  ../data/lmd_aligned/T/M/Z/TRTMZPO128F4220F70/53a0504db1467ce66d04736437fb243e.mid
+Exception:  Could not decode key with 2 flats and mode 255
+Valid Data Size:  23011
+Total Files Parsed:  23238
+Corrupt file:  ../data/lmd_aligned/T/Q/D/TRTQDGL128E0780C94/f799da363f849cdba42ed867b93f59ee.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23131
+Total Files Parsed:  23359
+Corrupt file:  ../data/lmd_aligned/T/U/A/TRTUAEM128F92DCDE6/6c9f9ef988b2f4b019c8dd5848d9ad2e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23313
+Total Files Parsed:  23542
+Corrupt file:  ../data/lmd_aligned/T/X/K/TRTXKKD12903CE6A14/e848ed42ec8101ca0d7ff3f37cda1641.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23469
+Total Files Parsed:  23699
+Corrupt file:  ../data/lmd_aligned/T/Y/X/TRTYXND128F425EB33/a5c32497c73668df835d1f96114c84c4.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23533
+Total Files Parsed:  23764
+Corrupt file:  ../data/lmd_aligned/T/Z/B/TRTZBSC128F42637CB/6798581aff957ded1554f5303a79c62b.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23542
+Total Files Parsed:  23774
+Corrupt file:  ../data/lmd_aligned/U/B/J/TRUBJIY12903CF6A81/d8ddb6b68ee0a1214e127f085ef93e26.mid
+Exception:  
+Valid Data Size:  23639
+Total Files Parsed:  23872
+Corrupt file:  ../data/lmd_aligned/U/C/G/TRUCGYQ128F9343164/6d3d0287c77dc0c0934f8427523331cf.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23681
+Total Files Parsed:  23915
+Corrupt file:  ../data/lmd_aligned/U/C/H/TRUCHHA128EF3435EA/833b7b62328c63decf99e3fa18b5a661.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23683
+Total Files Parsed:  23918
+Corrupt file:  ../data/lmd_aligned/U/D/L/TRUDLBI128F92E530B/63af6569a364def872252cea2b7885a0.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23727
+Total Files Parsed:  23963
+Corrupt file:  ../data/lmd_aligned/U/E/S/TRUESTL128E0791A5B/3f53ca2b9d3922f0e3542a692e54c00d.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23781
+Total Files Parsed:  24018
+Corrupt file:  ../data/lmd_aligned/U/E/U/TRUEUDK128E0782EA2/8cdbc2b52e36bc6591eff8e809fd92ef.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23784
+Total Files Parsed:  24022
+Corrupt file:  ../data/lmd_aligned/U/H/O/TRUHOPW128F9332B42/ee4aa97d0157cecca0f685a4fb267b6f.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23934
+Total Files Parsed:  24173
+Corrupt file:  ../data/lmd_aligned/U/I/E/TRUIEOO128F4244CD8/a49d02d6f326cb3bf9b2d8bab5622e7a.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23961
+Total Files Parsed:  24201
+Corrupt file:  ../data/lmd_aligned/U/I/Z/TRUIZTQ128F427181C/861be3565cd56ec99cf1d7dfc048c665.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  23987
+Total Files Parsed:  24228
+Creating backup
+Valid Data Size:  24000
+Corrupt file:  ../data/lmd_aligned/U/J/O/TRUJONK12903C96987/2cdb25a9abc795d12679c3f6abc2b212.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  24010
+Total Files Parsed:  24252
+Corrupt file:  ../data/lmd_aligned/U/L/Z/TRULZOF128F934B897/ca1c7906ed80ade81206de8c2ebf1d89.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  24137
+Total Files Parsed:  24380
+Corrupt file:  ../data/lmd_aligned/U/M/M/TRUMMIO128F4249D53/955b0cce851fc070885acd338e674751.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  24154
+Total Files Parsed:  24398
+Corrupt file:  ../data/lmd_aligned/U/N/Q/TRUNQUT128F9350E60/ca1c7906ed80ade81206de8c2ebf1d89.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  24199
+Total Files Parsed:  24444
+Corrupt file:  ../data/lmd_aligned/U/R/O/TRUROLZ12903CE3A8D/5e22504465505a9f062b9e282420d627.mid
+Exception:  Could not decode key with 1 flats and mode 255
+Valid Data Size:  24360
+Total Files Parsed:  24606
+Corrupt file:  ../data/lmd_aligned/U/R/Q/TRURQGZ128EF352BF2/21952deaec604c8f5857a8b412d1b4f8.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  24360
+Total Files Parsed:  24607
+Corrupt file:  ../data/lmd_aligned/U/T/D/TRUTDTR128F422B7CC/de4c3d1d7fecc375f013e76024e4878a.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  24429
+Total Files Parsed:  24677
+Corrupt file:  ../data/lmd_aligned/U/W/V/TRUWVQA128F42558D2/265a3088b54a9562e401e2eb0fa8827d.mid
+Exception:  Could not decode key with 3 flats and mode 255
+Valid Data Size:  24605
+Total Files Parsed:  24854
+Corrupt file:  ../data/lmd_aligned/V/B/M/TRVBMJP12903CF593E/40b0c769ede5a2c1127567db9b751169.mid
+Exception:  
+Valid Data Size:  24824
+Total Files Parsed:  25074
+Corrupt file:  ../data/lmd_aligned/V/D/H/TRVDHFC128F4241F21/f1d6ee3d508a2a5070183547f6c85369.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  24899
+Total Files Parsed:  25150
+Corrupt file:  ../data/lmd_aligned/V/H/I/TRVHIZD12903CCB20D/9604b32a292590391b10b87516816f51.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  25070
+Total Files Parsed:  25322
+Corrupt file:  ../data/lmd_aligned/V/P/H/TRVPHKW128F4233A58/853d6f6b3dc7a5eb2616faaf3b91f5c8.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  25402
+Total Files Parsed:  25655
+Creating backup
+Valid Data Size:  25500
+Corrupt file:  ../data/lmd_aligned/V/S/K/TRVSKQQ128F934DA0D/27e2424cc057f3c9fb4fedc2f62d6c40.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  25560
+Total Files Parsed:  25814
+Corrupt file:  ../data/lmd_aligned/W/A/C/TRWACAW128F147C155/285a1b4b42d3d71857515d47715cd6cc.mid
+Exception:  Could not decode key with 2 flats and mode 255
+Valid Data Size:  25911
+Total Files Parsed:  26166
+Corrupt file:  ../data/lmd_aligned/W/B/O/TRWBOFQ128F145A8F1/3f53ca2b9d3922f0e3542a692e54c00d.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  25987
+Total Files Parsed:  26243
+Corrupt file:  ../data/lmd_aligned/W/C/F/TRWCFRS128F427C5B5/2ac2bed35f785fef09e58cc749f1e7b8.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  26031
+Total Files Parsed:  26288
+Corrupt file:  ../data/lmd_aligned/W/F/S/TRWFSMC128F426C678/d581742c0004c7d8050dc0638d373d0b.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  26213
+Total Files Parsed:  26471
+Corrupt file:  ../data/lmd_aligned/W/G/S/TRWGSUV128F4269EAA/861be3565cd56ec99cf1d7dfc048c665.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  26259
+Total Files Parsed:  26518
+Corrupt file:  ../data/lmd_aligned/W/H/S/TRWHSIA128F4269CBA/ce5beeae6280566fc87718ec7b261458.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  26289
+Total Files Parsed:  26549
+Corrupt file:  ../data/lmd_aligned/W/K/M/TRWKMKV128E078A7D8/4e5054f581f29ac6083de43dff5610af.mid
+Exception:  Could not decode key with 2 flats and mode 255
+Valid Data Size:  26414
+Total Files Parsed:  26675
+Corrupt file:  ../data/lmd_aligned/W/M/E/TRWMEMW12903CA86D0/2b033c9be344546f11e0e20b0ffadfee.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  26487
+Total Files Parsed:  26749
+Corrupt file:  ../data/lmd_aligned/W/M/Q/TRWMQAG128F42662A5/d56312258d122bfab8cff7af17694e17.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  26510
+Total Files Parsed:  26773
+Corrupt file:  ../data/lmd_aligned/W/N/C/TRWNCRU128F9304F93/27e2424cc057f3c9fb4fedc2f62d6c40.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  26525
+Total Files Parsed:  26789
+Corrupt file:  ../data/lmd_aligned/W/N/K/TRWNKLW128F428C56D/1aa316272d18aab9a4ffc1c881fd95b6.mid
+Exception:  
+Valid Data Size:  26536
+Total Files Parsed:  26801
+Corrupt file:  ../data/lmd_aligned/W/Q/O/TRWQORX128F42A8E5F/8bfeabc3dd3f2426fa3f05084420a663.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  26671
+Total Files Parsed:  26937
+Corrupt file:  ../data/lmd_aligned/W/S/O/TRWSOCA128F92D2D93/bf86b90481c34d38d059064bd9d4cb3f.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  26785
+Total Files Parsed:  27052
+Corrupt file:  ../data/lmd_aligned/W/U/H/TRWUHTP12903CB5F7F/9e6109dade44bd9701ff6d07f3395b20.mid
+Exception:  
+Valid Data Size:  26857
+Total Files Parsed:  27125
+Creating backup
+Valid Data Size:  27000
+Corrupt file:  ../data/lmd_aligned/W/X/K/TRWXKVJ12903CD9CE4/37a6daf538a76096cff907ddd661380a.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  27013
+Total Files Parsed:  27282
+Corrupt file:  ../data/lmd_aligned/W/X/W/TRWXWNN128F93112A6/ca1c7906ed80ade81206de8c2ebf1d89.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  27034
+Total Files Parsed:  27304
+Corrupt file:  ../data/lmd_aligned/X/F/B/TRXFBNU12903CCBE8A/62f4d8788ba05f3c49ebfa6fc9164621.mid
+Exception:  
+Valid Data Size:  27364
+Total Files Parsed:  27635
+Corrupt file:  ../data/lmd_aligned/X/J/Y/TRXJYEO128F426AD39/c6e36f0db6e0d4d2dfaa8ce83116b394.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  27594
+Total Files Parsed:  27866
+Corrupt file:  ../data/lmd_aligned/X/K/I/TRXKIOT128F426707F/bf2c5319603b7e00cee3b4f7dd13d8cd.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  27608
+Total Files Parsed:  27881
+Corrupt file:  ../data/lmd_aligned/X/L/I/TRXLIMY12903CB26C9/6a3e351f2d56790943bd3ed533b00995.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  27642
+Total Files Parsed:  27916
+Corrupt file:  ../data/lmd_aligned/X/O/F/TRXOFFX128F42962D7/2b033c9be344546f11e0e20b0ffadfee.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  27752
+Total Files Parsed:  28027
+Corrupt file:  ../data/lmd_aligned/X/P/P/TRXPPMP128F92FCEF9/53f52dc1dad69ee388c9a1ac10a8f0a2.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  27830
+Total Files Parsed:  28106
+Corrupt file:  ../data/lmd_aligned/X/S/A/TRXSAHE128F92FFFCA/c9f0f2df33e5cc7623bfd2351654bad4.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  27937
+Total Files Parsed:  28214
+Corrupt file:  ../data/lmd_aligned/X/U/L/TRXULAV12903CBEC97/e499602166a426aa0fe54f80102822ef.mid
+Exception:  
+Valid Data Size:  28050
+Total Files Parsed:  28328
+Corrupt file:  ../data/lmd_aligned/X/X/F/TRXXFXP128F429238B/81457a5e14de4f19cd4640ad7db033e3.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  28194
+Total Files Parsed:  28473
+Corrupt file:  ../data/lmd_aligned/X/Y/U/TRXYUOS12903CC14EA/6b77e5bc6e765615e8a03d5b39eaf22b.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  28277
+Total Files Parsed:  28557
+Corrupt file:  ../data/lmd_aligned/X/Z/Y/TRXZYYP12903CBF28F/9f79f5113aa40a71564937281bcc077e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  28333
+Total Files Parsed:  28614
+Creating backup
+Valid Data Size:  28500
+Corrupt file:  ../data/lmd_aligned/Y/E/K/TRYEKGR128F429C2C2/c9f0f2df33e5cc7623bfd2351654bad4.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  28522
+Total Files Parsed:  28804
+Corrupt file:  ../data/lmd_aligned/Y/G/V/TRYGVZC12903CDBD40/e9d317d2e03285114d87654f63740494.mid
+Exception:  Could not decode key with 3 flats and mode 255
+Valid Data Size:  28644
+Total Files Parsed:  28927
+Corrupt file:  ../data/lmd_aligned/Y/H/Z/TRYHZDF128F42828C8/9f79f5113aa40a71564937281bcc077e.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  28692
+Total Files Parsed:  28976
+Corrupt file:  ../data/lmd_aligned/Y/J/O/TRYJODV128F426E4AC/62a8b9e3a22fc92fc69b49d15d790f05.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  28777
+Total Files Parsed:  29062
+Corrupt file:  ../data/lmd_aligned/Y/K/G/TRYKGYJ128F92E68CF/0e48b43e4f7715eab6dc53f9b107dfd3.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  28796
+Total Files Parsed:  29082
+Corrupt file:  ../data/lmd_aligned/Y/L/Q/TRYLQIX128F42A1ED2/c871c366bd424a848b54b29dce00bbfe.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  28857
+Total Files Parsed:  29144
+Corrupt file:  ../data/lmd_aligned/Y/M/P/TRYMPOM128F4295795/76550ae3973280bbf1edcb91d00ca9e7.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  28891
+Total Files Parsed:  29179
+Corrupt file:  ../data/lmd_aligned/Y/Q/I/TRYQITH128F4290455/0b0812979e33c132046d24575ff810cf.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  29076
+Total Files Parsed:  29365
+Corrupt file:  ../data/lmd_aligned/Y/Q/U/TRYQUQA128F932E152/e848ed42ec8101ca0d7ff3f37cda1641.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  29095
+Total Files Parsed:  29385
+Corrupt file:  ../data/lmd_aligned/Y/T/C/TRYTCSL128F4271B63/81457a5e14de4f19cd4640ad7db033e3.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  29199
+Total Files Parsed:  29490
+Corrupt file:  ../data/lmd_aligned/Y/Z/S/TRYZSBI128EF33ED6F/2cdb25a9abc795d12679c3f6abc2b212.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  29504
+Total Files Parsed:  29796
+Corrupt file:  ../data/lmd_aligned/Z/A/M/TRZAMGF128F427E086/dfb422428810bfb65f2d73cba2baf834.mid
+Exception:  Could not decode key with 4 flats and mode 255
+Valid Data Size:  29535
+Total Files Parsed:  29828
+Corrupt file:  ../data/lmd_aligned/Z/C/W/TRZCWFT128F424EACD/62f4d8788ba05f3c49ebfa6fc9164621.mid
+Exception:  
+Valid Data Size:  29632
+Total Files Parsed:  29926
+Corrupt file:  ../data/lmd_aligned/Z/D/N/TRZDNRK12903D0B4B2/1e3f146e3d7121bbb474301ed7b1774a.mid
+Exception:  Can't provide a global tempo estimate when there are fewer than two notes.
+Valid Data Size:  29666
+Total Files Parsed:  29961
+Corrupt file:  ../data/lmd_aligned/Z/G/K/TRZGKFM128F425AE73/e5afa844b9bae0d1bd2c60eaf88e5152.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  29786
+Total Files Parsed:  30082
+Corrupt file:  ../data/lmd_aligned/Z/H/Y/TRZHYAN128F42930F4/5ca86140d4b95174ebae6f9669bd6e0d.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  29851
+Total Files Parsed:  30148
+Corrupt file:  ../data/lmd_aligned/Z/I/E/TRZIECR128E0784FAB/589f3c4b67b61ff3cdde880b85331089.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  29860
+Total Files Parsed:  30158
+Creating backup
+Valid Data Size:  30000
+Corrupt file:  ../data/lmd_aligned/Z/M/S/TRZMSIE12903CD5734/e848ed42ec8101ca0d7ff3f37cda1641.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  30054
+Total Files Parsed:  30353
+Corrupt file:  ../data/lmd_aligned/Z/N/T/TRZNTLA128EF363651/a5c32497c73668df835d1f96114c84c4.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  30098
+Total Files Parsed:  30398
+Corrupt file:  ../data/lmd_aligned/Z/P/T/TRZPTGJ128F92FD70B/6b44202612659b7ecc6c2a95d2af0e39.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  30182
+Total Files Parsed:  30483
+Corrupt file:  ../data/lmd_aligned/Z/S/L/TRZSLNT128F42376DA/ca1c7906ed80ade81206de8c2ebf1d89.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  30329
+Total Files Parsed:  30631
+Corrupt file:  ../data/lmd_aligned/Z/U/M/TRZUMAU12903CBA485/087a2404ab0a9bfaf22e610df4f5c0e9.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  30421
+Total Files Parsed:  30724
+Corrupt file:  ../data/lmd_aligned/Z/W/R/TRZWRJW128F42BC5E1/b640e575d864680782b28f2d82328eae.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  30532
+Total Files Parsed:  30836
+Corrupt file:  ../data/lmd_aligned/Z/Z/B/TRZZBVD128F9334F47/e848ed42ec8101ca0d7ff3f37cda1641.mid
+Exception:  data byte must be in range 0..127
+Valid Data Size:  30631
+Total Files Parsed:  30936
+Finished. Final valid data size:  30677
